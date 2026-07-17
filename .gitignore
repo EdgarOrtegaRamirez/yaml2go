@@ -1,0 +1,9 @@
+# Binaries
+yaml2go
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
